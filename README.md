@@ -1,2 +1,2 @@
 # my-own-3d-prints
-Learning some Blender to make my own printable stl Files.
+Learning some Blender and PicoCad to make my own printable stl Files.
